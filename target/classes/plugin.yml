@@ -1,0 +1,7 @@
+name: Challenge
+version: '1.0-SNAPSHOT'
+main: de.MoritzMCC.challenge.Main
+api-version: '1.21'
+commands:
+  timer:
+  challenge:

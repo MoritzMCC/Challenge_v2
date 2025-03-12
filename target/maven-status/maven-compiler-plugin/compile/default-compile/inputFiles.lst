@@ -1,0 +1,15 @@
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/challengApi/AbstractChallenge.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/challengApi/ChallengeManager.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/challengApi/challenges/BedRockWallChallenge.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/challengApi/challenges/FloorIsLavaChallenge.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/challengApi/challenges/NoJumpChallenge.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/challengApi/challenges/NoSneakChallenge.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/challengApi/challenges/RandomTeleportChallenge.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/challenge/Main.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/command/ChallengeCommand.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/command/TimerCommand.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/inventory/InventoryHandler.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/inventory/Inventorys.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/listener/TimerPausedListener.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/timer/Timer.java
+/Users/moritz/Documents/Github/Challenge/src/main/java/de/MoritzMCC/utils/Config.java
